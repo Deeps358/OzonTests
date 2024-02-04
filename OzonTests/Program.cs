@@ -1,6 +1,6 @@
 ﻿using OzonTests;
 
-Console.WriteLine("Выберите тест от 1 до 4");
+Console.WriteLine("Выберите тест от 1 до 5");
 string choose = Console.ReadLine();
 try
 {
@@ -21,6 +21,10 @@ try
         case 4:
             Test4 test4 = new Test4();
             test4.Solution();
+            break;
+        case 5:
+            Test5 test5 = new Test5();
+            test5.Solution();
             break;
         default:
             Console.WriteLine("Некорректный ввод");
