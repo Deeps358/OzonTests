@@ -7,4 +7,4 @@
 В <a href="https://github.com/Deeps358/OzonTests/tree/master/OzonTests/Resources" target="_blank">ресурсах</a> также могут быть найдены файлы со всеми тестами (выгружаются с платформы Ozon).
 
 <h3 align="center">Описание задач</h3>
-Позже
+<a href="https://github.com/Deeps358/OzonTests/blob/master/OzonTests/Resources/Case_descriptions/Task1_desc.md" target="_blank">Задача 1</a>
