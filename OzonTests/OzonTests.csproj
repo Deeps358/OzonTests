@@ -23,6 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Resources\Case_descriptions\" />
     <Folder Include="Test_descriptions\" />
   </ItemGroup>
 
